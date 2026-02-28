@@ -1,0 +1,82 @@
+v1.1.1
+- Added successful booking message
+
+v1.1.2
+- Added display total price for customer
+
+v1.2
+- Changed data saving method
+- Fixed some minor bugs
+- Added delete record function
+
+v1.2.1
+- Added check for no. of tickets > 0
+
+v1.2.2
+- Fixed clear button not clearing total price in admin tab
+
+v1.2.3
+- Added display record number only when the record is null
+
+v1.2.4
+- Changed method to calculate total for each record
+
+v1.3
+- Completely rewritten data validation
+- Fixed reset button not clearing displayed cost after a new booking record
+
+v1.3.1
+- Added dialogbox prompt before a record is added
+
+v2
+- Added seating plans (incomplete)
+- Added cinema information
+- Added fields to update cinema information
+- Added display sales for all cinemas
+- Added display minimum and maximum sales
+
+v2.1
+- Finished seats booking
+- Added display for seats in list all bookings and check bookings
+- Movies, date and time now auto-generate based on the cinema, movie and date selected
+- Removed display total price for customer
+
+v2.2
+- Added separate seats booking for each movie (4 out of 10 done)
+- Stored available movies, dates and times into arrays instead of hard coding them
+- Seats will now become available again after clearing a record containing the respective seats
+
+v2.3
+- Added icon
+- Working on finishing different seating plans for different movies (6 out of 10 done) 
+
+v2.4
+- Working on finishing different seating plans for different movies (8 out of 10 done)
+
+v2.5
+- Finished all seating plans for all cinemas
+
+v2.6
+- Fixed some bugs such as updating cinema details not working
+
+v2.7
+- Fixed a bug where display max and min cinema sales only displays one cinema when 2 or more cinemas share the same max/min sales.
+
+v2.8
+- Modified getter and setter methods of no of tickets and total sales
+
+v2.9
+- Added display sales by cinema
+- Added handling cinema sales after a record is cleared
+
+v2.9.1
+- Fixed some minor bugs
+
+v2.9.2
+- Removed some hardcoded values
+
+v2.9.3
+- Flattened the user interface
+
+v2.9.4
+- Changed methods to find max and min sales
