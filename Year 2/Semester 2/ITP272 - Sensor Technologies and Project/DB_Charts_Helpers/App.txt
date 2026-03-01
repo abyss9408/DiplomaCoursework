@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<configuration>
-  <connectionStrings>
-    <add name="MyDBConnectStr"
-        connectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Temp\ITP272_ProjectDB.mdf;Integrated Security=True;Connect Timeout=30"
-        providerName="System.Data.SqlClient" />
-  </connectionStrings>
-</configuration>
