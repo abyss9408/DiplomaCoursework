@@ -1,1 +1,0 @@
-The project involves configuring physical cisco routers and swtiches with cisco commands
